@@ -55,7 +55,7 @@ Estudante de **Desenvolvimento de Sistemas**, construindo minha jornada no unive
   <a href="mailto:adryanisaque@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="www.linkedin.com/in/adryan-isaque-de-oliveira-teixeira-4479a1321" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
