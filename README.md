@@ -66,37 +66,6 @@ Acredito que bons desenvolvedores constroem mais do que código — constroem so
 
 ---
 
-## 🗂️ Projetos em Destaque
-
-<div align="center">
-
-  <a href="https://github.com/Adryan16isaque/hunter-s">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Adryan16isaque&repo=hunter-s&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa"
-    />
-  </a>
-
-  <a href="https://github.com/Adryan16isaque/poke-api">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Adryan16isaque&repo=poke-api&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa"
-    />
-  </a>
-
-  <a href="https://github.com/Adryan16isaque/api-cep">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Adryan16isaque&repo=api-cep&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa"
-    />
-  </a>
-
-  <a href="https://github.com/Adryan16isaque/solutech-api">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Adryan16isaque&repo=solutech-api&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa"
-    />
-  </a>
-
-</div>
----
-
 ## 📊 Estatísticas
 
 <div align="center">
