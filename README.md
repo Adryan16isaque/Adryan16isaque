@@ -86,7 +86,7 @@ Acredito que bons desenvolvedores constroem mais do que código — constroem so
 | 🌍 Edinburgh College 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Inglês + Software Development (Intercâmbio) | Concluído |
 | 🏫 SENAC DF | Técnico em Desenvolvimento de Sistemas (1200h) | Em andamento · 2026 |
 | 🏫 CEMIC DF | Ensino Médio Integrado ao Técnico em Informática | Em andamento · 2026 |
-| 💻 DevQuest | Formação Full Stack — HTML, CSS, JS, TS, React, Node, SQL | Em andamento · 2026 |
+| 💻 DevQuest | Formação Full Stack — HTML, CSS, JS, TS, React, Node, SQL | Concluído |
 | 📖 CIL DF | Inglês — Comunicação e Gramática | Em andamento · 2026 |
 
 ---
