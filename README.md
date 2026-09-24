@@ -17,9 +17,7 @@
   <a href="mailto:adryanisaque@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/adryan_isaque">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+ 
   <img src="https://komarev.com/ghpvc/?username=Adryan16isaque&color=a78bfa&style=flat-square&label=Visitas"/>
 </div>
 
@@ -97,7 +95,6 @@ Acredito que bons desenvolvedores constroem mais do que código — constroem so
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryan-isaque-de-oliveira-teixeira-4479a1321/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adryanisaque@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adryan_isaque)
 
 </div>
 
